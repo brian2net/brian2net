@@ -5,7 +5,7 @@
 - Developed various kinds of web/mobile applications being used by more than thousands of users.
 - Supported a back-end system with a heavy load, as well as participated in the modeling of a new and improved version of the entire system.
 - Smart contract token & dapp development on ethereum.
-- Worked as an engineer for liquidity pool analytics and development for DeFi platform development.
+- Worked as an engineer for liquidity pool analytics and development for DeFi platform.
 - Communicate with staff or clients to understand specific system requirements.
 - Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.
 - Develop system engineering, software engineering, system integration, or distributed system architectures.
