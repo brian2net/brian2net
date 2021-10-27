@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm brian2net</h1>
 <h3 align="center">Innovative Blockchain Solution</h3>
-- 👀 I’m a results-oriented professional developer with 10+ years of software development experience and have a proven knowledge of blockchain development and system configuration.
+<p align="left">I’m a results-oriented professional developer with 10+ years of software development experience and have a proven knowledge of blockchain development and system configuration.</p>
 
 ### Blockchain Experience
 
