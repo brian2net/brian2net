@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm brian2net</h1>
 <h3 align="center">Innovative Blockchain Solution</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brian2net&label=Profile%20views&color=0e75b6&style=flat" alt="brian2net" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian2net" alt="brian2net" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/brian2net" target="blank"><img src="https://img.shields.io/twitter/follow/brian2net?logo=twitter&style=for-the-badge" alt="brian2net" /></a> </p>
