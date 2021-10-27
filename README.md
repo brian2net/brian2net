@@ -23,22 +23,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/brian2net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brian2net" height="30" width="40" /></a>
-<a href="https://dev.to/brian2net" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="brian2net" height="30" width="40" /></a>
-<a href="https://twitter.com/brian2net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brian2net" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brian2net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian2net" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/brian2net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brian2net" height="30" width="40" /></a>
-<a href="https://codesandbox.com/brian2net" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="brian2net" height="30" width="40" /></a>
-<a href="https://kaggle.com/brian2net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="brian2net" height="30" width="40" /></a>
-<a href="https://fb.com/brian2net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brian2net" height="30" width="40" /></a>
-<a href="https://instagram.com/brian2net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brian2net" height="30" width="40" /></a>
-<a href="https://www.behance.net/brian2net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="brian2net" height="30" width="40" /></a>
-<a href="https://medium.com/brian2net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="brian2net" height="30" width="40" /></a>
-<a href="https://discord.gg/brian2net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="brian2net" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank"> 
@@ -67,3 +51,24 @@
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian2net" alt="brian2net" /></a> </p>
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://codepen.io/brian2net" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brian2net" height="30" width="40" />
+  </a>
+  <a href="https://dev.to/brian2net" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="brian2net" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/brian2net" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brian2net" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/brian2net" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian2net" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/brian2net" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brian2net" height="30" width="40" />
+  </a>
+</p>
