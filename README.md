@@ -23,12 +23,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
-<h1></h1>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian2net" alt="brian2net" /></a> </p>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/brian2net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brian2net" height="30" width="40" /></a>
@@ -67,8 +61,11 @@
   </a>
 </p>
 
+<h1></h1>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brian2net&show_icons=true&locale=en" alt="brian2net" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brian2net&" alt="brian2net" />
 </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian2net" alt="brian2net" /></a> </p>
