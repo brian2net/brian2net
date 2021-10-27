@@ -23,7 +23,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -45,16 +45,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brian2net&show_icons=true&locale=en" alt="brian2net" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brian2net&" alt="brian2net" />
-</p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian2net" alt="brian2net" /></a> </p>
-
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me</h3>
 <p align="left">
   <a href="https://codepen.io/brian2net" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brian2net" height="30" width="40" />
@@ -72,3 +63,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brian2net" height="30" width="40" />
   </a>
 </p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brian2net&show_icons=true&locale=en" alt="brian2net" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brian2net&" alt="brian2net" />
+</p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian2net" alt="brian2net" /></a> </p>
+
