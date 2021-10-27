@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm brian2net</h1>
 <h3 align="center">Innovative Blockchain Solution</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian2net" alt="brian2net" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian2net" alt="brian2net" /></a> </p>
 
 
 - 👀 I’m a results-oriented professional developer with 10+ years of software development experience and have a proven knowledge of blockchain development and system configuration.
