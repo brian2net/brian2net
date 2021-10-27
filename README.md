@@ -17,9 +17,7 @@
 - Perform security analyses of developed or packaged software components.
 - Develop application-specific software.
 
-- 👯 I’m aiming to leverage my skills to successfully fill the Innovative Blockchain Solutions.
-
-- 📫 How to reach me **brian2net@outlook.com**
+<p align="left">I’m aiming to leverage my skills to successfully fill the Innovative Blockchain Solutions.</p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
