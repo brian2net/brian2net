@@ -1,13 +1,16 @@
-<h2 align="center">Hi 👋, I'm brian2net</h2>
+<h1 align="center">Hi 👋, I'm brian2net</h1>
 <h3 align="center">Innovative Blockchain Solution</h3>
-
 - 👀 I’m a results-oriented professional developer with 10+ years of software development experience and have a proven knowledge of blockchain development and system configuration.
+- 
+### Blockchain Experience
 
-- 🌱 Experience
-- Developed various kinds of web/mobile applications being used by more than thousands of users.
-- Supported a back-end system with a heavy load, as well as participated in the modeling of a new and improved version of the entire system.
 - Smart contract token & dapp development on ethereum.
 - Worked as an engineer for liquidity pool analytics and development for DeFi platform.
+
+### Other Experience
+
+- Developed various kinds of web/mobile applications being used by more than thousands of users.
+- Supported a back-end system with a heavy load, as well as participated in the modeling of a new and improved version of the entire system.
 - Communicate with staff or clients to understand specific system requirements.
 - Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.
 - Develop system engineering, software engineering, system integration, or distributed system architectures.
